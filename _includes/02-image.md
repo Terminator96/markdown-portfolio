@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Imagen del bicho](https://www.eluniverso.com/resizer/fieA4u017oxbTWFVrwekJ9ZkUVI=/1508x1005/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/X2Z4KHUV3FGU5MKYCDE5U74RBM.jpg)
