@@ -1,1 +1,1 @@
-![Imagen del bicho](https://www.eluniverso.com/resizer/fieA4u017oxbTWFVrwekJ9ZkUVI=/1508x1005/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/X2Z4KHUV3FGU5MKYCDE5U74RBM.jpg)
+![Imagen del bicho](https://www.eluniverso.com/resizer/fieA4u017oxbTWFVrwekJ9ZkUVI=/1508x1005/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/X2Z4KHUV3FGU5MKYCDE5U74RBM.jpg)   
